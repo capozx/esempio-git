@@ -29,7 +29,3 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 ## Esempio di modifica
 
 Qui dovremmo aggiungere della documentazione
-
-## Errore pushato
-
-Sto pushando questo errore
