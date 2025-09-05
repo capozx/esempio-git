@@ -1,10 +1,11 @@
 import { Component } from '@angular/core';
 import { RouterOutlet } from '@angular/router';
+import { SpinningCatComponent } from './spinning-cat/spinning-cat.component';
 
 @Component({
   selector: 'app-root',
   standalone: true,
-  imports: [RouterOutlet],
+  imports: [RouterOutlet, SpinningCatComponent],
   templateUrl: './app.component.html',
   styleUrl: './app.component.scss'
 })
